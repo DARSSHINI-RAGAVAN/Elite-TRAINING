@@ -1,7 +1,7 @@
 package Patterns;
-
+import java.util.Scanner;
 public class pattern1 {
-    import java.util.Scanner;
+  
     public static void main(String[] args){
         Scanner in=new Scanner(System.in);
         int n=in.nextInt();
